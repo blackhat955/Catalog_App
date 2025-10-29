@@ -1,0 +1,162 @@
+[
+  {
+    "id": "artist_1",
+    "name": "Luna Eclipse",
+    "bio": "Luna Eclipse is an innovative electronic music producer known for creating immersive soundscapes that blend ambient textures with rhythmic elements. Based in Berlin, Luna has been crafting electronic music for over a decade.",
+    "image_url": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=200&h=200&fit=crop&crop=face",
+    "genre": "Electronic",
+    "country": "Germany"
+  },
+  {
+    "id": "artist_2",
+    "name": "River Stone",
+    "bio": "River Stone is a folk singer-songwriter from the Pacific Northwest. With a voice that carries the weight of mountain streams and forest whispers, River creates intimate acoustic experiences.",
+    "image_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&h=200&fit=crop&crop=face",
+    "genre": "Folk",
+    "country": "United States"
+  },
+  {
+    "id": "artist_3",
+    "name": "The Blue Note Trio",
+    "bio": "The Blue Note Trio consists of three virtuoso musicians who have been playing together for over 15 years. Their chemistry on stage is unmatched, bringing new life to jazz standards.",
+    "image_url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200&h=200&fit=crop&crop=face",
+    "genre": "Jazz",
+    "country": "United States"
+  },
+  {
+    "id": "artist_4",
+    "name": "Thunder Strike",
+    "bio": "Thunder Strike is a high-energy rock band from Australia known for their electrifying live performances and anthemic songs that get crowds moving.",
+    "image_url": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&h=200&fit=crop&crop=face",
+    "genre": "Rock",
+    "country": "Australia"
+  },
+  {
+    "id": "artist_5",
+    "name": "Symphony Orchestra",
+    "bio": "A world-renowned orchestra with over 100 years of history, performing classical masterpieces with precision and passion.",
+    "image_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&h=200&fit=crop&crop=face",
+    "genre": "Classical",
+    "country": "Austria"
+  },
+  {
+    "id": "artist_6",
+    "name": "MC Flow",
+    "bio": "MC Flow is a conscious hip-hop artist from New York who uses music as a platform to tell stories about urban life and social issues.",
+    "image_url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200&h=200&fit=crop&crop=face",
+    "genre": "Hip-Hop",
+    "country": "United States"
+  },
+  {
+    "id": "artist_7",
+    "name": "Cyber Dreams",
+    "bio": "Cyber Dreams is a synthwave producer from Los Angeles who specializes in creating retro-futuristic soundscapes. Inspired by 80s culture and neon aesthetics, their music transports listeners to a digital paradise.",
+    "image_url": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&h=200&fit=crop&crop=face",
+    "genre": "Electronic",
+    "country": "United States"
+  },
+  {
+    "id": "artist_8",
+    "name": "Jake Morrison",
+    "bio": "Jake Morrison is a country singer-songwriter from Nashville who grew up on a farm in Tennessee. His authentic storytelling and heartfelt vocals have earned him a devoted following across rural America.",
+    "image_url": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=200&h=200&fit=crop&crop=face",
+    "genre": "Country",
+    "country": "United States"
+  },
+  {
+    "id": "artist_9",
+    "name": "Island Rhythms",
+    "bio": "Island Rhythms is a reggae collective from Jamaica featuring multiple vocalists and musicians. They blend traditional reggae with modern production while maintaining the genre's spiritual and uplifting message.",
+    "image_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&h=200&fit=crop&crop=face",
+    "genre": "Reggae",
+    "country": "Jamaica"
+  },
+  {
+    "id": "artist_10",
+    "name": "Iron Wolves",
+    "bio": "Iron Wolves is a metal band from Sweden known for their technical prowess and epic compositions. Formed in 2015, they've quickly risen to become one of the most respected names in modern metal.",
+    "image_url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200&h=200&fit=crop&crop=face",
+    "genre": "Metal",
+    "country": "Sweden"
+  },
+  {
+    "id": "artist_11",
+    "name": "Soulful Sarah",
+    "bio": "Soulful Sarah is an R&B vocalist from Atlanta with a voice that can move mountains. Her powerful performances and emotional depth have made her one of the most sought-after artists in contemporary R&B.",
+    "image_url": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=200&h=200&fit=crop&crop=face",
+    "genre": "R&B",
+    "country": "United States"
+  },
+  {
+    "id": "artist_12",
+    "name": "The Velvet Moons",
+    "bio": "The Velvet Moons is an indie rock band from Portland known for their dreamy soundscapes and introspective lyrics. Their atmospheric approach to rock music has garnered critical acclaim and a devoted fanbase.",
+    "image_url": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=200&h=200&fit=crop&crop=face",
+    "genre": "Indie",
+    "country": "United States"
+  },
+  {
+    "id": "artist_13",
+    "name": "Stella Bright",
+    "bio": "Stella Bright is a pop sensation from London who burst onto the scene with her infectious energy and catchy melodies. Her upbeat anthems and positive messages have made her a global superstar.",
+    "image_url": "https://images.unsplash.com/photo-1463453091185-61582044d556?w=200&h=200&fit=crop&crop=face",
+    "genre": "Pop",
+    "country": "United Kingdom"
+  },
+  {
+    "id": "artist_14",
+    "name": "Rebel Hearts",
+    "bio": "Rebel Hearts is a punk rock band from Chicago that formed in the underground scene. Their raw energy and rebellious spirit capture the essence of classic punk while addressing modern social issues.",
+    "image_url": "https://images.unsplash.com/photo-1507591064344-4c6ce005b128?w=200&h=200&fit=crop&crop=face",
+    "genre": "Punk",
+    "country": "United States"
+  },
+  {
+    "id": "artist_15",
+    "name": "Global Harmony",
+    "bio": "Global Harmony is a world music ensemble featuring musicians from six different continents. They create beautiful fusion pieces that celebrate cultural diversity and the universal language of music.",
+    "image_url": "https://images.unsplash.com/photo-1494790108755-2616c669-f6e?w=200&h=200&fit=crop&crop=face",
+    "genre": "World",
+    "country": "International"
+  },
+  {
+    "id": "artist_16",
+    "name": "Midnight Collective",
+    "bio": "Midnight Collective is an ambient electronic duo from Iceland known for their ethereal soundscapes and minimalist approach. Their music is perfect for meditation and deep contemplation.",
+    "image_url": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?w=200&h=200&fit=crop&crop=face",
+    "genre": "Electronic",
+    "country": "Iceland"
+  },
+  {
+    "id": "artist_17",
+    "name": "The Groove Machine",
+    "bio": "The Groove Machine is a funk band from Detroit that brings old-school funk into the modern era. Their tight rhythms and infectious grooves get everyone dancing.",
+    "image_url": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&h=200&fit=crop&crop=face",
+    "genre": "Funk",
+    "country": "United States"
+  },
+  {
+    "id": "artist_18",
+    "name": "Celtic Winds",
+    "bio": "Celtic Winds is a traditional Irish folk group that has been preserving and modernizing Celtic music for over two decades. Their authentic instruments and haunting melodies transport listeners to the Irish countryside.",
+    "image_url": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=200&h=200&fit=crop&crop=face",
+    "genre": "Folk",
+    "country": "Ireland"
+  },
+  {
+    "id": "artist_19",
+    "name": "Bass Drop Kings",
+    "bio": "Bass Drop Kings is an EDM duo from Amsterdam known for their high-energy festival sets and massive bass drops. They've headlined major electronic music festivals worldwide.",
+    "image_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&h=200&fit=crop&crop=face",
+    "genre": "Electronic",
+    "country": "Netherlands"
+  },
+  {
+    "id": "artist_20",
+    "name": "Smooth Jazz Quartet",
+    "bio": "Smooth Jazz Quartet is a contemporary jazz group from New Orleans that blends traditional jazz with modern smooth jazz elements. Their sophisticated sound appeals to both jazz purists and casual listeners.",
+    "image_url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200&h=200&fit=crop&crop=face",
+    "genre": "Jazz",
+    "country": "United States"
+  }
+]

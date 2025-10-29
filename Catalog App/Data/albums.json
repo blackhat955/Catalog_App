@@ -1,0 +1,694 @@
+[
+  {
+    "id": "album_1",
+    "title": "Midnight Dreams",
+    "artist_id": "artist_1",
+    "artist_name": "Luna Eclipse",
+    "description": "A mesmerizing collection of ambient electronic tracks that transport you to otherworldly realms. Perfect for late-night listening sessions.",
+    "price": 12.99,
+    "image_url": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=300&h=300&fit=crop&crop=center",
+    "genre": "Electronic",
+    "release_date": "2024-03-15",
+    "rating": 4.8,
+    "review_count": 127,
+    "duration": "52:34",
+    "track_count": 10,
+    "is_popular": true,
+    "songs": [
+      {
+        "id": "song_1",
+        "title": "Stellar Voyage",
+        "duration": "5:23",
+        "track_number": 1,
+        "preview_url": null
+      },
+      {
+        "id": "song_2",
+        "title": "Neon Nights",
+        "duration": "4:45",
+        "track_number": 2,
+        "preview_url": null
+      },
+      {
+        "id": "song_3",
+        "title": "Digital Dreams",
+        "duration": "6:12",
+        "track_number": 3,
+        "preview_url": null
+      }
+    ],
+    "reviews": [
+      {
+        "id": "review_1",
+        "user_name": "MusicLover92",
+        "rating": 5,
+        "comment": "Absolutely stunning! Each track flows perfectly into the next.",
+        "date": "2024-10-15"
+      },
+      {
+        "id": "review_2",
+        "user_name": "ElectroFan",
+        "rating": 4,
+        "comment": "Great ambient sounds, perfect for studying.",
+        "date": "2024-10-10"
+      }
+    ]
+  },
+  {
+    "id": "album_2",
+    "title": "Acoustic Sessions",
+    "artist_id": "artist_2",
+    "artist_name": "River Stone",
+    "description": "Intimate acoustic performances recorded in a cozy studio setting. Raw emotion meets masterful songwriting.",
+    "price": 9.99,
+    "image_url": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=300&h=300&fit=crop&crop=center",
+    "genre": "Folk",
+    "release_date": "2024-01-20",
+    "rating": 4.6,
+    "review_count": 89,
+    "duration": "41:18",
+    "track_count": 8,
+    "is_popular": false,
+    "songs": [
+      {
+        "id": "song_4",
+        "title": "Mountain Road",
+        "duration": "4:32",
+        "track_number": 1,
+        "preview_url": null
+      },
+      {
+        "id": "song_5",
+        "title": "Whispered Words",
+        "duration": "3:45",
+        "track_number": 2,
+        "preview_url": null
+      }
+    ],
+    "reviews": [
+      {
+        "id": "review_3",
+        "user_name": "AcousticGuru",
+        "rating": 5,
+        "comment": "Beautiful storytelling through music.",
+        "date": "2024-09-25"
+      }
+    ]
+  },
+  {
+    "id": "album_3",
+    "title": "Jazz Nights",
+    "artist_id": "artist_3",
+    "artist_name": "The Blue Note Trio",
+    "description": "Classic jazz standards reimagined with modern flair. Featuring exceptional piano, bass, and drum performances.",
+    "price": 15.99,
+    "image_url": "https://images.unsplash.com/photo-1571974599782-87624638275c?w=300&h=300&fit=crop&crop=center",
+    "genre": "Jazz",
+    "release_date": "2023-11-08",
+    "rating": 4.9,
+    "review_count": 203,
+    "duration": "68:45",
+    "track_count": 12,
+    "is_popular": true,
+    "songs": [
+      {
+        "id": "song_6",
+        "title": "Blue Moon Rising",
+        "duration": "6:23",
+        "track_number": 1,
+        "preview_url": null
+      },
+      {
+        "id": "song_7",
+        "title": "Midnight Serenade",
+        "duration": "5:45",
+        "track_number": 2,
+        "preview_url": null
+      }
+    ],
+    "reviews": [
+      {
+        "id": "review_4",
+        "user_name": "JazzEnthusiast",
+        "rating": 5,
+        "comment": "Phenomenal musicianship! A must-have for any jazz collection.",
+        "date": "2024-10-20"
+      }
+    ]
+  },
+  {
+    "id": "album_4",
+    "title": "Rock Anthems",
+    "artist_id": "artist_4",
+    "artist_name": "Thunder Strike",
+    "description": "High-energy rock anthems that will get your blood pumping. Perfect for workouts and road trips.",
+    "price": 11.99,
+    "image_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=300&h=300&fit=crop&crop=center",
+    "genre": "Rock",
+    "release_date": "2024-06-12",
+    "rating": 4.4,
+    "review_count": 156,
+    "duration": "45:22",
+    "track_count": 9,
+    "is_popular": true,
+    "songs": [
+      {
+        "id": "song_8",
+        "title": "Lightning Strike",
+        "duration": "4:12",
+        "track_number": 1,
+        "preview_url": null
+      },
+      {
+        "id": "song_9",
+        "title": "Thunder Road",
+        "duration": "5:33",
+        "track_number": 2,
+        "preview_url": null
+      }
+    ],
+    "reviews": [
+      {
+        "id": "review_5",
+        "user_name": "RockFan2024",
+        "rating": 4,
+        "comment": "Great energy, but could use more variety in the sound.",
+        "date": "2024-10-18"
+      }
+    ]
+  },
+  {
+    "id": "album_5",
+    "title": "Classical Masterpieces",
+    "artist_id": "artist_5",
+    "artist_name": "Symphony Orchestra",
+    "description": "Timeless classical compositions performed by world-class musicians. Experience the beauty of orchestral music.",
+    "price": 18.99,
+    "image_url": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=300&h=300&fit=crop&crop=center",
+    "genre": "Classical",
+    "release_date": "2023-09-30",
+    "rating": 4.7,
+    "review_count": 78,
+    "duration": "72:15",
+    "track_count": 6,
+    "is_popular": false,
+    "songs": [
+      {
+        "id": "song_10",
+        "title": "Symphony No. 1 in C Major",
+        "duration": "18:45",
+        "track_number": 1,
+        "preview_url": null
+      },
+      {
+        "id": "song_11",
+        "title": "Concerto for Piano",
+        "duration": "15:30",
+        "track_number": 2,
+        "preview_url": null
+      }
+    ],
+    "reviews": [
+      {
+        "id": "review_6",
+        "user_name": "ClassicalConnoisseur",
+        "rating": 5,
+        "comment": "Exquisite performances of beloved classics.",
+        "date": "2024-10-05"
+      }
+    ]
+  },
+  {
+    "id": "album_6",
+    "title": "Hip-Hop Chronicles",
+    "artist_id": "artist_6",
+    "artist_name": "MC Flow",
+    "description": "Raw and authentic hip-hop tracks with powerful lyrics and infectious beats. A journey through urban storytelling.",
+    "price": 13.99,
+    "image_url": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=300&h=300&fit=crop&crop=center",
+    "genre": "Hip-Hop",
+    "release_date": "2024-08-05",
+    "rating": 4.5,
+    "review_count": 234,
+    "duration": "48:30",
+    "track_count": 11,
+    "is_popular": true,
+    "songs": [
+      {
+        "id": "song_12",
+        "title": "City Streets",
+        "duration": "4:20",
+        "track_number": 1,
+        "preview_url": null
+      },
+      {
+        "id": "song_13",
+        "title": "Rise Up",
+        "duration": "3:55",
+        "track_number": 2,
+        "preview_url": null
+      }
+    ],
+    "reviews": [
+      {
+        "id": "review_7",
+        "user_name": "HipHopHead",
+        "rating": 4,
+        "comment": "Solid beats and meaningful lyrics. MC Flow delivers again!",
+        "date": "2024-10-12"
+      }
+    ]
+  },
+  {
+    "id": "album_7",
+    "title": "Neon Synthwave",
+    "artist_id": "artist_7",
+    "artist_name": "Cyber Dreams",
+    "description": "A retro-futuristic journey through 80s-inspired synthwave melodies. Perfect for night drives and nostalgic moments.",
+    "price": 11.99,
+    "image_url": "https://images.unsplash.com/photo-1571974599782-87624638275c?w=300&h=300&fit=crop&crop=center",
+    "genre": "Electronic",
+    "release_date": "2024-09-20",
+    "rating": 4.7,
+    "review_count": 189,
+    "duration": "45:22",
+    "track_count": 9,
+    "is_popular": true,
+    "songs": [
+      {
+        "id": "song_14",
+        "title": "Midnight Highway",
+        "duration": "5:12",
+        "track_number": 1,
+        "preview_url": null
+      },
+      {
+        "id": "song_15",
+        "title": "Neon Lights",
+        "duration": "4:33",
+        "track_number": 2,
+        "preview_url": null
+      },
+      {
+        "id": "song_16",
+        "title": "Digital Sunset",
+        "duration": "6:01",
+        "track_number": 3,
+        "preview_url": null
+      }
+    ],
+    "reviews": [
+      {
+        "id": "review_8",
+        "user_name": "SynthwaveFan",
+        "rating": 5,
+        "comment": "Pure 80s nostalgia! Every track is a masterpiece.",
+        "date": "2024-10-18"
+      }
+    ]
+  },
+  {
+    "id": "album_8",
+    "title": "Country Roads",
+    "artist_id": "artist_8",
+    "artist_name": "Jake Morrison",
+    "description": "Heartfelt country ballads and upbeat anthems that capture the spirit of rural America. Stories of love, loss, and redemption.",
+    "price": 14.99,
+    "image_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=300&h=300&fit=crop&crop=center",
+    "genre": "Country",
+    "release_date": "2024-07-12",
+    "rating": 4.6,
+    "review_count": 156,
+    "duration": "51:45",
+    "track_count": 12,
+    "is_popular": false,
+    "songs": [
+      {
+        "id": "song_17",
+        "title": "Hometown Hero",
+        "duration": "4:15",
+        "track_number": 1,
+        "preview_url": null
+      },
+      {
+        "id": "song_18",
+        "title": "Whiskey Nights",
+        "duration": "3:48",
+        "track_number": 2,
+        "preview_url": null
+      },
+      {
+        "id": "song_19",
+        "title": "Back Road Blues",
+        "duration": "5:22",
+        "track_number": 3,
+        "preview_url": null
+      }
+    ],
+    "reviews": [
+      {
+        "id": "review_9",
+        "user_name": "CountryFan2024",
+        "rating": 5,
+        "comment": "Jake's storytelling is incredible. Each song paints a vivid picture.",
+        "date": "2024-10-10"
+      }
+    ]
+  },
+  {
+    "id": "album_9",
+    "title": "Reggae Vibes",
+    "artist_id": "artist_9",
+    "artist_name": "Island Rhythms",
+    "description": "Smooth reggae beats with positive messages and infectious grooves. Music to uplift your spirit and move your soul.",
+    "price": 12.49,
+    "image_url": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=300&h=300&fit=crop&crop=center",
+    "genre": "Reggae",
+    "release_date": "2024-06-08",
+    "rating": 4.4,
+    "review_count": 98,
+    "duration": "47:18",
+    "track_count": 10,
+    "is_popular": false,
+    "songs": [
+      {
+        "id": "song_20",
+        "title": "One Love Unity",
+        "duration": "4:42",
+        "track_number": 1,
+        "preview_url": null
+      },
+      {
+        "id": "song_21",
+        "title": "Island Breeze",
+        "duration": "5:15",
+        "track_number": 2,
+        "preview_url": null
+      },
+      {
+        "id": "song_22",
+        "title": "Positive Vibration",
+        "duration": "4:28",
+        "track_number": 3,
+        "preview_url": null
+      }
+    ],
+    "reviews": [
+      {
+        "id": "review_10",
+        "user_name": "ReggaeLover",
+        "rating": 4,
+        "comment": "Great vibes and positive energy throughout the album.",
+        "date": "2024-10-08"
+      }
+    ]
+  },
+  {
+    "id": "album_10",
+    "title": "Metal Storm",
+    "artist_id": "artist_10",
+    "artist_name": "Iron Wolves",
+    "description": "Brutal and melodic metal with crushing riffs and soaring vocals. An epic journey through darkness and light.",
+    "price": 15.99,
+    "image_url": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=300&h=300&fit=crop&crop=center",
+    "genre": "Metal",
+    "release_date": "2024-05-25",
+    "rating": 4.9,
+    "review_count": 312,
+    "duration": "58:33",
+    "track_count": 11,
+    "is_popular": true,
+    "songs": [
+      {
+        "id": "song_23",
+        "title": "Warriors of Steel",
+        "duration": "6:45",
+        "track_number": 1,
+        "preview_url": null
+      },
+      {
+        "id": "song_24",
+        "title": "Thunder and Lightning",
+        "duration": "5:33",
+        "track_number": 2,
+        "preview_url": null
+      },
+      {
+        "id": "song_25",
+        "title": "Rise of the Phoenix",
+        "duration": "7:12",
+        "track_number": 3,
+        "preview_url": null
+      }
+    ],
+    "reviews": [
+      {
+        "id": "review_11",
+        "user_name": "MetalHead666",
+        "rating": 5,
+        "comment": "Absolutely crushing! Best metal album of the year!",
+        "date": "2024-10-20"
+      }
+    ]
+  },
+  {
+    "id": "album_11",
+    "title": "R&B Smooth",
+    "artist_id": "artist_11",
+    "artist_name": "Soulful Sarah",
+    "description": "Silky smooth R&B vocals over lush production. Songs about love, heartbreak, and empowerment that touch the soul.",
+    "price": 13.49,
+    "image_url": "https://images.unsplash.com/photo-1571974599782-87624638275c?w=300&h=300&fit=crop&crop=center",
+    "genre": "R&B",
+    "release_date": "2024-04-18",
+    "rating": 4.8,
+    "review_count": 201,
+    "duration": "49:27",
+    "track_count": 10,
+    "is_popular": true,
+    "songs": [
+      {
+        "id": "song_26",
+        "title": "Midnight Confessions",
+        "duration": "4:55",
+        "track_number": 1,
+        "preview_url": null
+      },
+      {
+        "id": "song_27",
+        "title": "Golden Hour",
+        "duration": "5:22",
+        "track_number": 2,
+        "preview_url": null
+      },
+      {
+        "id": "song_28",
+        "title": "Stronger Than Before",
+        "duration": "4:18",
+        "track_number": 3,
+        "preview_url": null
+      }
+    ],
+    "reviews": [
+      {
+        "id": "review_12",
+        "user_name": "RnBQueen",
+        "rating": 5,
+        "comment": "Sarah's voice is pure magic. Every song gives me chills.",
+        "date": "2024-10-16"
+      }
+    ]
+  },
+  {
+    "id": "album_12",
+    "title": "Indie Dreams",
+    "artist_id": "artist_12",
+    "artist_name": "The Velvet Moons",
+    "description": "Dreamy indie rock with ethereal vocals and atmospheric guitars. Perfect for contemplative moments and late-night drives.",
+    "price": 11.99,
+    "image_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=300&h=300&fit=crop&crop=center",
+    "genre": "Indie",
+    "release_date": "2024-03-30",
+    "rating": 4.5,
+    "review_count": 143,
+    "duration": "44:12",
+    "track_count": 9,
+    "is_popular": false,
+    "songs": [
+      {
+        "id": "song_29",
+        "title": "Stargazer",
+        "duration": "5:08",
+        "track_number": 1,
+        "preview_url": null
+      },
+      {
+        "id": "song_30",
+        "title": "Velvet Sky",
+        "duration": "4:44",
+        "track_number": 2,
+        "preview_url": null
+      },
+      {
+        "id": "song_31",
+        "title": "Moonlight Serenade",
+        "duration": "6:15",
+        "track_number": 3,
+        "preview_url": null
+      }
+    ],
+    "reviews": [
+      {
+        "id": "review_13",
+        "user_name": "IndieFan2024",
+        "rating": 4,
+        "comment": "Beautiful atmospheric soundscapes. Very relaxing and inspiring.",
+        "date": "2024-10-14"
+      }
+    ]
+  },
+  {
+    "id": "album_13",
+    "title": "Pop Perfection",
+    "artist_id": "artist_13",
+    "artist_name": "Stella Bright",
+    "description": "Catchy pop anthems with infectious hooks and uplifting messages. Dance-worthy tracks that will get stuck in your head.",
+    "price": 12.99,
+    "image_url": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=300&h=300&fit=crop&crop=center",
+    "genre": "Pop",
+    "release_date": "2024-08-22",
+    "rating": 4.3,
+    "review_count": 267,
+    "duration": "42:35",
+    "track_count": 11,
+    "is_popular": true,
+    "songs": [
+      {
+        "id": "song_32",
+        "title": "Shine Bright",
+        "duration": "3:28",
+        "track_number": 1,
+        "preview_url": null
+      },
+      {
+        "id": "song_33",
+        "title": "Dancing Queen",
+        "duration": "3:55",
+        "track_number": 2,
+        "preview_url": null
+      },
+      {
+        "id": "song_34",
+        "title": "Summer Nights",
+        "duration": "4:12",
+        "track_number": 3,
+        "preview_url": null
+      }
+    ],
+    "reviews": [
+      {
+        "id": "review_14",
+        "user_name": "PopLover123",
+        "rating": 4,
+        "comment": "Super catchy songs! Can't stop listening to 'Shine Bright'.",
+        "date": "2024-10-19"
+      }
+    ]
+  },
+  {
+    "id": "album_14",
+    "title": "Punk Revolution",
+    "artist_id": "artist_14",
+    "artist_name": "Rebel Hearts",
+    "description": "Raw, energetic punk rock with rebellious lyrics and driving rhythms. Music for the misfits and the free spirits.",
+    "price": 10.99,
+    "image_url": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=300&h=300&fit=crop&crop=center",
+    "genre": "Punk",
+    "release_date": "2024-02-14",
+    "rating": 4.2,
+    "review_count": 87,
+    "duration": "35:48",
+    "track_count": 12,
+    "is_popular": false,
+    "songs": [
+      {
+        "id": "song_35",
+        "title": "Break the Chains",
+        "duration": "2:45",
+        "track_number": 1,
+        "preview_url": null
+      },
+      {
+        "id": "song_36",
+        "title": "Anarchy Now",
+        "duration": "3:12",
+        "track_number": 2,
+        "preview_url": null
+      },
+      {
+        "id": "song_37",
+        "title": "Rebel Yell",
+        "duration": "2:58",
+        "track_number": 3,
+        "preview_url": null
+      }
+    ],
+    "reviews": [
+      {
+        "id": "review_15",
+        "user_name": "PunkRocker",
+        "rating": 4,
+        "comment": "Raw energy and authentic punk spirit. Takes me back to the classics!",
+        "date": "2024-10-11"
+      }
+    ]
+  },
+  {
+    "id": "album_15",
+    "title": "World Fusion",
+    "artist_id": "artist_15",
+    "artist_name": "Global Harmony",
+    "description": "A beautiful blend of world music traditions with modern production. Instruments and vocals from around the globe unite in harmony.",
+    "price": 14.49,
+    "image_url": "https://images.unsplash.com/photo-1571974599782-87624638275c?w=300&h=300&fit=crop&crop=center",
+    "genre": "World",
+    "release_date": "2024-01-20",
+    "rating": 4.7,
+    "review_count": 76,
+    "duration": "53:22",
+    "track_count": 8,
+    "is_popular": false,
+    "songs": [
+      {
+        "id": "song_38",
+        "title": "Desert Winds",
+        "duration": "7:15",
+        "track_number": 1,
+        "preview_url": null
+      },
+      {
+        "id": "song_39",
+        "title": "Bamboo Forest",
+        "duration": "6:33",
+        "track_number": 2,
+        "preview_url": null
+      },
+      {
+        "id": "song_40",
+        "title": "Mountain Echo",
+        "duration": "8:12",
+        "track_number": 3,
+        "preview_url": null
+      }
+    ],
+    "reviews": [
+      {
+        "id": "review_16",
+        "user_name": "WorldMusicLover",
+        "rating": 5,
+        "comment": "Incredible journey through different cultures. Beautifully crafted.",
+        "date": "2024-10-09"
+      }
+    ]
+  }
+]
